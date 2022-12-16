@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-<<<<<<< HEAD
 	string str1 = "master";
 	string str2 = "hot-fix";
 	cout << "hello world!!" << endl;
