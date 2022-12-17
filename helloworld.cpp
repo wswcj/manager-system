@@ -8,5 +8,6 @@ int main() {
 	cout << "hello world!!" << endl;
 	cout << str1 << endl;
 	cout << str2 << endl;
+	cout << "github" << endl;
 	return 0;
 }
